@@ -1,0 +1,89 @@
+.LoginBackground {
+  background: url(thanos-pal-vb-hPUzfpBo.png);
+  background-size: cover;
+  height: 600px;
+  color: white;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  gap: 6rem;
+}
+
+.LoginView {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.LoginContainer {
+  height: 350px;
+  width: 300px;
+  background-color: var(--white);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 10px;
+
+  p {
+    color: var(--black);
+  }
+}
+
+.LoginContainerBorder {
+  height: 5px;
+  width: 300px;
+  background: linear-gradient(
+    90deg,
+    #f97068 0%,
+    #f97068 14.98%,
+    #86b9b0 15%,
+    #86b9b0 50.26%,
+    #4c7273 50.38%,
+    #4c7273 75.13%,
+    #042630 75.24%,
+    #041421 100%
+  );
+}
+
+.LoginButton {
+  width: calc(100% - 20px);
+  color: var(--black);
+  background-color: var(--light-blue);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.LoginInput {
+  width: calc(100% - 40px);
+  padding: 10px;
+  border: 1px solid var(--light-blue);
+}
+
+.LoginImage {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+  border-radius: 37% 63% 39% 61% / 41% 37% 63% 59%;
+}
+
+.LoginOptionImage {
+  width: 150px;
+  height: 150px;
+  margin-top: 20px;
+  border-radius: 50% 50% 69% 31% / 41% 75% 25% 59%;
+}
+
+@media (max-width: 850px) {
+  .LoginBackground {
+    > button {
+      display: none;
+    }
+  }
+}

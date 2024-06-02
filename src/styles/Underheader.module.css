@@ -1,0 +1,25 @@
+.Underheader {
+  ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 16px;
+
+    align-self: stretch;
+
+    li {
+      list-style: none;
+      font-family: "Kanit", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+      position: relative;
+    }
+  }
+}
+@media (max-width: 1300px) {
+  .Underheader {
+    display: none;
+  }
+}

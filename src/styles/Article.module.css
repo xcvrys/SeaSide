@@ -1,0 +1,118 @@
+.ArticleMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Article {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1200px;
+  height: 100%;
+  padding: 20px;
+}
+
+.ArticleSide {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px 0;
+}
+
+.ArticleSideHeader {
+  font-family: "Kanit";
+  font-style: normal;
+  font-size: 20px;
+  line-height: 52px;
+
+  color: #042630;
+  h2 {
+    font-weight: 500;
+  }
+}
+
+.ArticleSideDesc {
+  ul {
+    padding-left: 20px;
+  }
+}
+
+.ArticleDetails {
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  width: 100%;
+  display: flex;
+}
+
+.ArticleButton {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 24px;
+  gap: 10px;
+
+  background: #f97068;
+  border-radius: 47px;
+}
+.ArticleSmallButton {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #4c7273;
+}
+
+.ArticleImage {
+  height: 350px;
+}
+
+@media (max-width: 768px) {
+  .Article {
+    width: 90%;
+  }
+  .ArticleSide {
+    padding: 10px 0;
+    gap: 20px;
+  }
+  .ArticleSideHeader {
+    font-size: 16px;
+    line-height: 32px;
+  }
+  .ArticleImage {
+    height: 150px;
+  }
+  .ArticleButton {
+    padding: 10px 20px;
+  }
+  .ArticleSmallButton {
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 600px) {
+  .Article {
+    padding: 10px;
+    flex-direction: column;
+  }
+  .ArticleSide {
+    padding: 10px 0;
+  }
+  .ArticleSideHeader {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .ArticleImage {
+    height: 250px;
+  }
+  .ArticleButton {
+    padding: 8px 16px;
+  }
+  .ArticleSmallButton {
+    font-size: 10px;
+  }
+  .ArticleImage:nth-child(1) {
+    display: none;
+  }
+}

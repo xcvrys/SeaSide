@@ -1,0 +1,25 @@
+.SearchNav {
+  display: flex;
+  justify-content: space-between;
+
+  button {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--accent);
+  }
+}
+
+.SearchContainer {
+  display: flex;
+  flex-direction: column;
+
+  gap: 0.5rem;
+  padding: 1rem 0;
+
+  input {
+    padding: 0.5rem;
+    background-color: #d3dddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+  }
+}

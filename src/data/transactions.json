@@ -1,0 +1,2904 @@
+{
+  "4361 6019 6525 1234": [
+    {
+      "type": "Wpłata",
+      "date": "2022-10-15",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 3024.48
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-11-05",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 5172.39
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-06-12",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 5661.57
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-07-02",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 4393.33
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-02-26",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 6292.94
+    },
+    {
+      "type": "Blik",
+      "date": "2023-10-06",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 1785.93
+    },
+    {
+      "type": "Blik",
+      "date": "2024-02-27",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 8647.15
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-03-23",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 8178.03
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-09-21",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 5971.94
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-06-23",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 1307
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-11-21",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 9027.6
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-04-17",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 3594.68
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-06-09",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 1409.33
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-04-28",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 7148.56
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-12-20",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 4333.36
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-08-17",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 4025.09
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-08-24",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 3220.44
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-09-04",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 6191.64
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-05-11",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 5448.52
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-05-17",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 973.86
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-06-16",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 3361.79
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-09-08",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 9122.03
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-05-12",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 2116.85
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-10-27",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 2325.82
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-02-25",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 1029.54
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-03-08",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 4085.49
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-09-05",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 8463.29
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-07-26",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 127.82
+    },
+    {
+      "type": "Blik",
+      "date": "2022-12-27",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 5986.19
+    },
+    {
+      "type": "Blik",
+      "date": "2022-09-19",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 3566.38
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-08-22",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 7053.43
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-06-01",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 2245.16
+    },
+    {
+      "type": "Blik",
+      "date": "2023-11-03",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 8447.03
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-11-25",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 3170.63
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-12-18",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 4219.91
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-01-04",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 5251.4
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-09-16",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 8514.11
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-11-27",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 4803.09
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-07-30",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 8891.7
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-09-28",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 173.54
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-10-10",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 3078.64
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-01-25",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 4902.25
+    },
+    {
+      "type": "Blik",
+      "date": "2021-04-14",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 8952.23
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-10-19",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 4730.25
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-06-20",
+      "description": "Wpłata gotówkowa",
+      "category": "Zakupy",
+      "amount": 2865
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-01-11",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 9629.94
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-02-11",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 8603.97
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-04-30",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 954.25
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-04-30",
+      "description": "Wypłata bankomat",
+      "category": "Usługi",
+      "amount": 7723.82
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-01-06",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 5230.79
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-05-23",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 7835.43
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-05-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 5607.16
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-03-05",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 8639.4
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-07-25",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 1948.32
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-09-12",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 1519.26
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-07-10",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 1334.85
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-05-24",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 1346.93
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-05-27",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 3838.63
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-10-13",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 9134.43
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-07-23",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 4077.58
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-10-17",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 1067.67
+    },
+    {
+      "type": "Blik",
+      "date": "2023-01-18",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 7466.63
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-05-21",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 1788.16
+    },
+    {
+      "type": "Blik",
+      "date": "2023-01-07",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 2577.39
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-07-10",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 827.87
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-08-07",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 7659.59
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-10-18",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 6959.85
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-10-14",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 6402.61
+    },
+    {
+      "type": "Blik",
+      "date": "2021-08-15",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 4919.56
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-06-11",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 6884.25
+    },
+    {
+      "type": "Blik",
+      "date": "2023-10-13",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 7054.66
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-09-01",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 458.17
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-03-19",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 619.3
+    },
+    {
+      "type": "Blik",
+      "date": "2023-09-10",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 5199.88
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-01-30",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 1121.12
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-12-28",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 4968.65
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-07-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 6667.58
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-03-07",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 3980.91
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-06-09",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 460.61
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-18",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 8309.21
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-02-19",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 7885.13
+    },
+    {
+      "type": "Blik",
+      "date": "2023-07-01",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 2341.44
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-11",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 4441.23
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-04-19",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 9161.17
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-01-03",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 2506.5
+    },
+    {
+      "type": "Blik",
+      "date": "2022-11-13",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 2526.61
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-07-31",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 9701.94
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-01-09",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 9754.67
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-02-26",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 2185.11
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-09-13",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 607.46
+    },
+    {
+      "type": "Blik",
+      "date": "2022-07-16",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 6226.62
+    },
+    {
+      "type": "Blik",
+      "date": "2024-04-23",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 9427.4
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-05-09",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 6864.09
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-04-07",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 191.23
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-11-08",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 5426.59
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-07-30",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 6389.21
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-04-17",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 7119.11
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-09-06",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 194.95
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-12-17",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 2866.77
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-07-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 343.23
+    },
+    {
+      "type": "Blik",
+      "date": "2021-09-12",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 4526.27
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-27",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 5862.55
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-11-16",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 4437.17
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-12-14",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 5798.9
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-04-17",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 2673.92
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-03-20",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 6638.07
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-03-13",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 8367.23
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-11-12",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 101.26
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-01-27",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 7200.55
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-02-03",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 7440.06
+    },
+    {
+      "type": "Blik",
+      "date": "2022-06-23",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 8511.32
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-10-19",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 911.72
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-07-11",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 3344.25
+    },
+    {
+      "type": "Blik",
+      "date": "2023-04-12",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 7397.61
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-07-02",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 5319.34
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-03-09",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 1277.66
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-11-21",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 2508.33
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-01-11",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 8952.54
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-05-24",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 4453.19
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-10-13",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 575.04
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-02-16",
+      "description": "Wypłata bankomat",
+      "category": "Usługi",
+      "amount": 944.27
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-08-31",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 2479.86
+    },
+    {
+      "type": "Blik",
+      "date": "2023-12-12",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 6817.08
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-02-15",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 6554.58
+    },
+    {
+      "type": "Blik",
+      "date": "2023-09-03",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 5279.83
+    },
+    {
+      "type": "Blik",
+      "date": "2023-08-13",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 7425.16
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-11-30",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 465.79
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-02-10",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 5259.6
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-02-23",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 7387.5
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-11-08",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 6032.58
+    },
+    {
+      "type": "Blik",
+      "date": "2021-11-27",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 7811.16
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-09-08",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 4050.75
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-06-30",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 2393.86
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-07-17",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 496.64
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-02-02",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 5925.03
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-06-06",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 1117.26
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-09-05",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 4547.04
+    },
+    {
+      "type": "Blik",
+      "date": "2023-02-10",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 3513.17
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-04-16",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 3418.93
+    },
+    {
+      "type": "Blik",
+      "date": "2023-12-05",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 995.43
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-11-15",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 8038.89
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-05-19",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 3751.91
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-08-23",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 5350.1
+    },
+    {
+      "type": "Blik",
+      "date": "2023-01-22",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 1080.01
+    },
+    {
+      "type": "Blik",
+      "date": "2023-01-12",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 1526.91
+    },
+    {
+      "type": "Blik",
+      "date": "2022-06-09",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 9096.7
+    },
+    {
+      "type": "Wypłata",
+      "date": "2024-03-07",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 7043.9
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-08",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 1155.48
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-12-23",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 8055.02
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-01-13",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 8323.06
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-12-10",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 8926.48
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-23",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 5129.58
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-03-11",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 4339.74
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-10-14",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 1028.91
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-11-03",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 5230.51
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-04-28",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 1607.52
+    },
+    {
+      "type": "Blik",
+      "date": "2023-05-07",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 2547.11
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-06-08",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 6178.76
+    },
+    {
+      "type": "Blik",
+      "date": "2022-01-13",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 3859.27
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-11-04",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 8860.24
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-10-25",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 1790.66
+    },
+    {
+      "type": "Blik",
+      "date": "2021-01-09",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 4677.69
+    },
+    {
+      "type": "Wypłata",
+      "date": "2024-04-30",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 6021.2
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-10-20",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 9198.2
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-11-17",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 7297.12
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-12-04",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 8878.49
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-01-24",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 4317.44
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-03-10",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 5611.74
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-10-20",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 5532.71
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-02-27",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 681.77
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-10-28",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 3355.15
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-09-08",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 7481.48
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-10-16",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 8887.17
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-08-21",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 1715.07
+    },
+    {
+      "type": "Blik",
+      "date": "2022-11-07",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 3925.9
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-05-29",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 9729.55
+    },
+    {
+      "type": "Blik",
+      "date": "2023-10-14",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 1673.87
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-19",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 2824.29
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-06-29",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 1668.97
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-11-21",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 3732.97
+    },
+    {
+      "type": "Blik",
+      "date": "2022-12-14",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 5082.09
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-03-09",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 7725.98
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-09-04",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 3197.79
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-05-01",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 1218.54
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-02-05",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 9292.62
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-12-25",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 330.99
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-07-23",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 9909.34
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-14",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 7265.86
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-08-26",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 1038.09
+    },
+    {
+      "type": "Blik",
+      "date": "2022-06-17",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 2694.69
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-08-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 4721.76
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-04-13",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 9207.91
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-09-16",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 1592.29
+    },
+    {
+      "type": "Blik",
+      "date": "2021-11-01",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 3692.71
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-01-25",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 8065.68
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-03-09",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 657.93
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-04-01",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 6370.18
+    }
+  ],
+  "4383 7711 3547 5678": [
+    {
+      "type": "Płatność",
+      "date": "2022-08-24",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 837.04
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-10-03",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 8452.11
+    },
+    {
+      "type": "Blik",
+      "date": "2021-12-06",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 1231.08
+    },
+    {
+      "type": "Blik",
+      "date": "2022-11-30",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 2025.12
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-04-20",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 8645.82
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-01-05",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 5857.43
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-20",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 1027.28
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-08-21",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 7977.72
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-07-14",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 4490.09
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-03-08",
+      "description": "Wpłata gotówkowa",
+      "category": "Zakupy",
+      "amount": 2142.63
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-01-12",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 5287.72
+    },
+    {
+      "type": "Blik",
+      "date": "2021-11-09",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 3323.31
+    },
+    {
+      "type": "Blik",
+      "date": "2022-03-27",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 7356.83
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-08-27",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 6863.01
+    },
+    {
+      "type": "Wpłata",
+      "date": "2024-02-20",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 6413.44
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-03-30",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 9771.76
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-10-30",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 2885.17
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-02-26",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 4797.19
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-08-13",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 160.51
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-11-05",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 2697.97
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-04-18",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 4017.96
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-05-29",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 8143.9
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-09-18",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 91.12
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-03-17",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 6667.79
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-06-09",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 563.74
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-02",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 8966.06
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-01-02",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 1949.12
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-03",
+      "description": "Wypłata bankomat",
+      "category": "Usługi",
+      "amount": 9548.61
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-09-16",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 9725.03
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-06",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 4401.03
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-03-17",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 602.54
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-19",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 7653.87
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-03-21",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 9106.64
+    },
+    {
+      "type": "Blik",
+      "date": "2021-05-03",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 583.14
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-07-10",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 4306.35
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-02-08",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 6931.45
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-01-08",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 2392.07
+    },
+    {
+      "type": "Wpłata",
+      "date": "2024-05-31",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 2149.83
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-22",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 1092.64
+    },
+    {
+      "type": "Blik",
+      "date": "2022-12-09",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 5004.2
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-12-03",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 9105.89
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-10-04",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 1137.38
+    },
+    {
+      "type": "Blik",
+      "date": "2021-05-09",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 2662.52
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-01-27",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 5161.56
+    },
+    {
+      "type": "Blik",
+      "date": "2023-03-05",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 8100.02
+    },
+    {
+      "type": "Blik",
+      "date": "2021-05-03",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 9936.98
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-08-17",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 8745.1
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-01-08",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 5697.18
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-05-10",
+      "description": "Wypłata bankomat",
+      "category": "Usługi",
+      "amount": 1268.42
+    },
+    {
+      "type": "Blik",
+      "date": "2022-05-19",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 9628.41
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-10-06",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 5691.86
+    },
+    {
+      "type": "Blik",
+      "date": "2021-11-01",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 6729.53
+    },
+    {
+      "type": "Blik",
+      "date": "2022-03-02",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 9040.23
+    },
+    {
+      "type": "Wypłata",
+      "date": "2024-01-14",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 3935.57
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-11-02",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 3097.1
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-09-04",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 2063.78
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-05-26",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 4713.99
+    },
+    {
+      "type": "Blik",
+      "date": "2022-10-05",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 1547.75
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-11-30",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 9170.83
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-05-19",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 388.96
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-11-29",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 1215.27
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-05-16",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 6874.05
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-11-26",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 1438.42
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-09-25",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 8620.34
+    },
+    {
+      "type": "Blik",
+      "date": "2024-02-23",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 8683.61
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-04-28",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 6273.75
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-03-31",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 6000.43
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-09-16",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 3953.67
+    },
+    {
+      "type": "Wypłata",
+      "date": "2024-04-09",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 4898.07
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-10-09",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 766.43
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-03-02",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 557.74
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-11-29",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 233.31
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-03-03",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 1589.25
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-03-25",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 6929.46
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-09-16",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 3377.61
+    },
+    {
+      "type": "Blik",
+      "date": "2022-12-24",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 9321.42
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-08-02",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 7487.99
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-11-25",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 2485.57
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-07-12",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 959.3
+    },
+    {
+      "type": "Blik",
+      "date": "2023-06-27",
+      "description": "Wpłata gotówkowa",
+      "category": "Zakupy",
+      "amount": 7320.61
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-08-11",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 6904.7
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-05-12",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 646.33
+    },
+    {
+      "type": "Blik",
+      "date": "2022-01-03",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 4081.32
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-02-06",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 8698.9
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-11",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 6359.23
+    },
+    {
+      "type": "Blik",
+      "date": "2021-12-10",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 5175.68
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-07-11",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 3488.43
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-13",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 5312
+    },
+    {
+      "type": "Blik",
+      "date": "2023-02-22",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 119.54
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-07-03",
+      "description": "Wypłata bankomat",
+      "category": "Usługi",
+      "amount": 6373.88
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-11-08",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 3633.7
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-04-03",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 179.62
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-03-03",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 1075.72
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-09-18",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 5801.1
+    },
+    {
+      "type": "Blik",
+      "date": "2021-11-07",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 4558.79
+    },
+    {
+      "type": "Blik",
+      "date": "2024-01-17",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 2459.65
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-05-03",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 3904.31
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-17",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 7069.76
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-03",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 996.65
+    },
+    {
+      "type": "Blik",
+      "date": "2022-01-22",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 8349.59
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-01-01",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 2967.56
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-10-10",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 8866.53
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-14",
+      "description": "Usługi doradcze",
+      "category": "Usługi",
+      "amount": 3406.25
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-10-22",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 2232.4
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-08-10",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 7277.59
+    },
+    {
+      "type": "Wpłata",
+      "date": "2024-05-07",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 5865.57
+    },
+    {
+      "type": "Blik",
+      "date": "2023-02-15",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 7593.66
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-03-11",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 3320.14
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-08-03",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 9118.33
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-06-29",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 1930.36
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-10-21",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 7802.69
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-04-18",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 2075.76
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-06-27",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 5454.93
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-04-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 3046.26
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-08-18",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 7263.26
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-10-10",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 7477.39
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-03-26",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 9088.09
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-10-08",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 5207.89
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-04-13",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 2912.1
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-10-05",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 8754.73
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-12-29",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 8416.21
+    },
+    {
+      "type": "Blik",
+      "date": "2021-08-07",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 550.76
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-04-03",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 2813.13
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-12-19",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 1655.27
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-12-29",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 8727.5
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-05-14",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 2763.35
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-09-23",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 173.56
+    },
+    {
+      "type": "Blik",
+      "date": "2023-10-28",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 305.19
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-12-04",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 2947.67
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-05-07",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 3197.17
+    },
+    {
+      "type": "Blik",
+      "date": "2022-07-23",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 3921.1
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-02-09",
+      "description": "Wynagrodzenie",
+      "category": "Wynagrodzenie",
+      "amount": 447.42
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-04-20",
+      "description": "Wpłata gotówkowa",
+      "category": "Zakupy",
+      "amount": 2192.96
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-06-16",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 8086.8
+    },
+    {
+      "type": "Blik",
+      "date": "2022-02-15",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 5028.9
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-12-11",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 3211.56
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-03-14",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 1118.53
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-01-20",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 7450.37
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-04-04",
+      "description": "Wpłata gotówkowa",
+      "category": "Przelew",
+      "amount": 1477.56
+    },
+    {
+      "type": "Blik",
+      "date": "2021-01-17",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 531.36
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-01-30",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 7543.64
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-05-14",
+      "description": "Usługi doradcze",
+      "category": "Przelew",
+      "amount": 2364.9
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-11-08",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 9155.09
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-06-12",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 5465.91
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-02-13",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 9233.77
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-06-15",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 1611.13
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-05-08",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 4173.71
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-03-19",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 3576.72
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-09-10",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 3097.47
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-05-15",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 1160.98
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-01-21",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 7907.81
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-21",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 7327.3
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-11-06",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 9701.5
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-12-25",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 1389.57
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-03-22",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 2278.89
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-02-24",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 9729.43
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-06-11",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 5190.2
+    },
+    {
+      "type": "Blik",
+      "date": "2022-08-06",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 2856.55
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-11-10",
+      "description": "Usługi doradcze",
+      "category": "Opłaty",
+      "amount": 5495.46
+    },
+    {
+      "type": "Blik",
+      "date": "2023-09-01",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 9312.29
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-08-10",
+      "description": "Wynagrodzenie",
+      "category": "Usługi",
+      "amount": 5032.82
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-04-14",
+      "description": "Wypłata bankomat",
+      "category": "Przelew",
+      "amount": 9344.62
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-02-10",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 2159.42
+    },
+    {
+      "type": "Blik",
+      "date": "2022-12-04",
+      "description": "Wynagrodzenie",
+      "category": "Zakupy",
+      "amount": 7701.6
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-04-24",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 4810.53
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-08-31",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 1159.66
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-05-15",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 4364.18
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-02",
+      "description": "Przelew z banku",
+      "category": "Przelew",
+      "amount": 851.59
+    },
+    {
+      "type": "Blik",
+      "date": "2022-05-10",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 2600.24
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-01-10",
+      "description": "Opłata za internet",
+      "category": "Zakupy",
+      "amount": 1109.31
+    },
+    {
+      "type": "Blik",
+      "date": "2022-06-30",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 435.68
+    },
+    {
+      "type": "Blik",
+      "date": "2023-12-09",
+      "description": "Przelew z banku",
+      "category": "Opłaty",
+      "amount": 9332.17
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-11-09",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 7517.48
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-12-27",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 6065.2
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-01-13",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 6338.43
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-04-19",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 8095.7
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-04-13",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 1617.72
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-02-02",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 9802.21
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-03-16",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 4877.49
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-01-02",
+      "description": "Wynagrodzenie",
+      "category": "Opłaty",
+      "amount": 7539.87
+    },
+    {
+      "type": "Blik",
+      "date": "2022-08-18",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 8083.47
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-02-08",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 869.39
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-09-06",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 147.04
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-14",
+      "description": "Zakupy w Biedronce",
+      "category": "Przelew",
+      "amount": 2237.85
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-02-04",
+      "description": "Wypłata bankomat",
+      "category": "Wynagrodzenie",
+      "amount": 7699.78
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-07-21",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 7576.31
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-07-17",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 3344.24
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-09-07",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 1945.32
+    },
+    {
+      "type": "Przelew",
+      "date": "2022-12-22",
+      "description": "Usługi doradcze",
+      "category": "Zakupy",
+      "amount": 9523.55
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-02-22",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 7483.86
+    },
+    {
+      "type": "Blik",
+      "date": "2022-01-02",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 2899.76
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-07-01",
+      "description": "Wpłata gotówkowa",
+      "category": "Usługi",
+      "amount": 7412.05
+    },
+    {
+      "type": "Wypłata",
+      "date": "2021-05-02",
+      "description": "Wpłata gotówkowa",
+      "category": "Wynagrodzenie",
+      "amount": 7473.62
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-08-01",
+      "description": "Zakupy w Biedronce",
+      "category": "Wynagrodzenie",
+      "amount": 729.47
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-01-26",
+      "description": "Opłata za internet",
+      "category": "Usługi",
+      "amount": 6090.46
+    },
+    {
+      "type": "Wypłata",
+      "date": "2022-02-26",
+      "description": "Wpłata gotówkowa",
+      "category": "Opłaty",
+      "amount": 2343.91
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-03-17",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 3040.37
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-06-11",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 630.7
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-08-21",
+      "description": "Zakupy w Biedronce",
+      "category": "Usługi",
+      "amount": 7416.55
+    },
+    {
+      "type": "Blik",
+      "date": "2023-09-26",
+      "description": "Wypłata bankomat",
+      "category": "Opłaty",
+      "amount": 6241.2
+    },
+    {
+      "type": "Płatność",
+      "date": "2021-04-21",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 754.11
+    },
+    {
+      "type": "Wpłata",
+      "date": "2024-05-08",
+      "description": "Wynagrodzenie",
+      "category": "Przelew",
+      "amount": 4737.02
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-07-02",
+      "description": "Zakupy w Biedronce",
+      "category": "Zakupy",
+      "amount": 1618.3
+    },
+    {
+      "type": "Przelew",
+      "date": "2021-02-22",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 1732.99
+    },
+    {
+      "type": "Płatność",
+      "date": "2022-04-10",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 1827.29
+    },
+    {
+      "type": "Przelew",
+      "date": "2024-01-19",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 3841.7
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-10-20",
+      "description": "Wypłata bankomat",
+      "category": "Zakupy",
+      "amount": 1086.68
+    },
+    {
+      "type": "Blik",
+      "date": "2022-01-26",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 6330.55
+    },
+    {
+      "type": "Przelew",
+      "date": "2023-05-04",
+      "description": "Opłata za internet",
+      "category": "Opłaty",
+      "amount": 7615.37
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-08-22",
+      "description": "Usługi doradcze",
+      "category": "Wynagrodzenie",
+      "amount": 8686.3
+    },
+    {
+      "type": "Wpłata",
+      "date": "2021-12-05",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 1836.3
+    },
+    {
+      "type": "Wpłata",
+      "date": "2023-01-25",
+      "description": "Przelew z banku",
+      "category": "Zakupy",
+      "amount": 6870.92
+    },
+    {
+      "type": "Płatność",
+      "date": "2023-03-10",
+      "description": "Zakupy w Biedronce",
+      "category": "Opłaty",
+      "amount": 2807.97
+    },
+    {
+      "type": "Wpłata",
+      "date": "2022-12-15",
+      "description": "Opłata za internet",
+      "category": "Przelew",
+      "amount": 1466.97
+    },
+    {
+      "type": "Blik",
+      "date": "2024-02-12",
+      "description": "Opłata za internet",
+      "category": "Wynagrodzenie",
+      "amount": 3929.66
+    },
+    {
+      "type": "Płatność",
+      "date": "2024-04-11",
+      "description": "Przelew z banku",
+      "category": "Usługi",
+      "amount": 3305.65
+    },
+    {
+      "type": "Wypłata",
+      "date": "2023-02-21",
+      "description": "Przelew z banku",
+      "category": "Wynagrodzenie",
+      "amount": 3955.32
+    }
+  ]
+}

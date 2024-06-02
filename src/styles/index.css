@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --white: #d0d6d6;
+  --light-blue: #86b9b0;
+  --blue: #4c7273;
+  --dark-blue: #042630;
+  --black: #041421;
+  --accent: #f97068;
+  --accent-rgb: 249, 112, 104;
+  --accent-hover: #ec6a62;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: var(--white);
+  color: var(--black);
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+input {
+  all: unset;
+  color: var(--black);
+}

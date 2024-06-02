@@ -1,0 +1,217 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 100px 0px;
+  gap: 10px;
+
+  align-self: stretch;
+}
+
+.imagesNav {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px;
+  gap: 12px;
+}
+
+.contextNav {
+  font-size: 1.25rem;
+  ul {
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    li {
+      list-style: none;
+      font-family: "Kanit", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+      position: relative;
+    }
+    li:nth-child(1) {
+      font-weight: 400;
+    }
+    li:nth-child(1):after {
+      position: absolute;
+      content: "";
+      display: block;
+      width: 110%;
+      left: -5%;
+      height: 3px;
+
+      background: linear-gradient(
+        90deg,
+        #f97068 0%,
+        #f97068 14.98%,
+        #86b9b0 15%,
+        #86b9b0 50.26%,
+        #4c7273 50.38%,
+        #4c7273 75.13%,
+        #042630 75.24%,
+        #041421 100%
+      );
+    }
+  }
+}
+
+.LoginButtonWrapper {
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.LoginButtonWrapper:hover .LoginButtonBackground {
+  left: 0;
+}
+.LoginButtonWrapper:hover .LoginButton {
+  background-color: rgba(var(--accent-rgb), 0.15);
+}
+
+.LoginButton {
+  border-radius: 6px;
+  padding: 10px 32px;
+  transition: 0.1s;
+  font-size: 1.15rem;
+}
+
+.LoginButtonBackground {
+  position: absolute;
+  z-index: 2;
+  border-radius: 6px;
+  left: -23px;
+  top: 23px;
+  transition: 1s;
+}
+
+.loginHeader {
+  font-weight: 500;
+}
+
+.dashboardHeader {
+  font-weight: 300;
+
+  ul {
+    display: flex;
+    gap: 48px;
+    li {
+      list-style: none;
+    }
+    li {
+      list-style: none;
+      font-family: "Kanit", sans-serif;
+      font-weight: 300;
+      font-style: normal;
+      position: relative;
+    }
+    li:nth-child(1) {
+      font-weight: 400;
+    }
+    li:nth-child(1):after {
+      position: absolute;
+      content: "";
+      display: block;
+      width: 110%;
+      left: -5%;
+      height: 3px;
+
+      background-color: var(--accent);
+    }
+  }
+}
+
+.dasboarButton {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 6px 12px;
+  gap: 10px;
+
+  background: var(--accent);
+  border-radius: 44px;
+  color: white;
+}
+
+.dasboarButton:hover {
+  background: var(--accent-hover);
+}
+
+@media (max-width: 1300px) {
+  .header {
+    padding: 10px 50px 0px;
+  }
+
+  .dashboardHeader {
+    ul {
+      display: none;
+    }
+  }
+}
+@media (max-width: 800px) {
+  .contextNav {
+    ul {
+      display: none;
+    }
+    .defaultIcons {
+      display: none;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  .header {
+    padding: 10px 20px 0px;
+  }
+  .contextNav {
+    display: none;
+  }
+  .dasboarButton {
+    display: none;
+  }
+  .loginHeader {
+    font-size: 1.15rem;
+  }
+}
+
+.navList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.navItem {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #000;
+}
+
+.tooltip {
+  visibility: hidden;
+  background-color: #d3dddd;
+  color: var(--black);
+  text-align: center;
+  border-radius: 4px;
+  padding: 5px;
+  z-index: 1000;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: opacity 0.3s;
+  opacity: 0;
+  position: fixed;
+  left: 50%;
+  width: 90vw;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.navItem:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}

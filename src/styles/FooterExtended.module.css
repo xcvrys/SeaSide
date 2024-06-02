@@ -1,0 +1,49 @@
+.FooterMain {
+  color: white;
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+  width: 90%;
+}
+
+.FooterMainLeft {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 2rem;
+}
+
+.FooterMainRight {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 2rem;
+}
+
+.FooterMainBig {
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+
+.FooterMainSmall {
+  font-weight: 300;
+  padding-left: 1rem;
+  li {
+    list-style: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .FooterMain {
+    flex-direction: column;
+    gap: 3rem;
+  }
+
+  .FooterMainLeft {
+    padding: 0;
+  }
+
+  .FooterMainRight {
+    padding: 0;
+  }
+}
