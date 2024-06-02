@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styles from "../styles/Header.module.css";
 
 const MainNav = () => (
@@ -44,8 +45,10 @@ const DashboardButtons = () => (
     <a href="#">
       <img src="/quill_mail.svg" alt="mail" />
     </a>
-    <a href={`/`}>
-      <img src="/material-symbols_logout-rounded.svg" alt="logout" />
+    <a>
+      <Link to="/">
+        <img src="/material-symbols_logout-rounded.svg" alt="logout" />
+      </Link>
     </a>
   </>
 );
@@ -62,22 +65,22 @@ const DefaultButtons = () => (
 );
 
 const LoginButtonWrapper = () => (
-  <a href={`/login`} className={styles.LoginButtonWrapper}>
+  <Link to="/login" className={styles.LoginButtonWrapper}>
     <button className={styles.LoginButton}>zaloguj</button>
     <img
       src="/LoginButton.svg"
       alt="LoginButtonBackground"
       className={styles.LoginButtonBackground}
     />
-  </a>
+  </Link>
 );
 
 export default function Header({ mode }: HeaderProps) {
   return (
     <header className={styles.header}>
-      <a href={`/`}>
+      <Link to="/">
         <img src="/SS_LOGO.svg" alt="logo" />
-      </a>
+      </Link>
 
       {mode === "main" && <MainNav />}
       {mode === "login" && <LoginHeader />}
