@@ -1,10 +1,8 @@
-import { lazy, useState } from "react";
-
+import Chart from "./Chart";
 import ChartData from "../data/chart.json";
+import Table from "./Table";
 import styles from "../styles/RightDashboard.module.css";
-
-const Table = lazy(() => import("./Table"));
-const Chart = lazy(() => import("./Chart"));
+import { useState } from "react";
 
 export function NoAccount() {
   return (

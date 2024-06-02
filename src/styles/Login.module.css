@@ -1,5 +1,5 @@
 .LoginBackground {
-  background: url(thanos-pal-vb-hPUzfpBo.png);
+  background: url("/thanos-pal-vb-hPUzfpBo.png") !important;
   background-size: cover;
   height: 600px;
   color: white;
